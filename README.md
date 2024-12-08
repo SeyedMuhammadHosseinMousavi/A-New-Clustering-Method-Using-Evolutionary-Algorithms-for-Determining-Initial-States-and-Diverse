@@ -1,12 +1,10 @@
-# A-New-Clustering-Method-Using-Evolutionary-Algorithms-for-Determining-Initial-States-and-Diverse
-A New Clustering Method Using Evolutionary Algorithms for Determining Initial States, and Diverse Pairwise Distances for Clustering
-"""
 # A New Clustering Method Using Evolutionary Algorithms for Determining Initial States, and Diverse Pairwise Distances for Clustering
 
-This repository implements the methodology proposed in the paper:
-**"A New Clustering Method Using Evolutionary Algorithms for Determining Initial States, and Diverse Pairwise Distances for Clustering"**
-by **Seyed Muhammad Hossain Mousavi**.
-
+### Link to the paper:
+- https://www.aeuso.org/includes/files/articles/Vol9_Iss31_4098-4110_A_New_Clustering_Method_Using_Evolu.pdf
+- https://www.semanticscholar.org/paper/A-New-Clustering-Method-Using-Evolutionary-for-and-Mousavi-Hossain/7233dfb8ca927313f574e842c88fdac94a05a2cb
+## Please cite:
+- Mousavi, Seyed Muhammad Hossain. "A New Clustering Method Using Evolutionary Algorithms for Determining Initial States, and Diverse Pairwise Distances for Clustering." International Journal of Mechatronics, Electrical and Computer Technology (IJMEC) 9.31 (2019): 4098-4110.
 ---
 
 ## Abstract
@@ -36,8 +34,3 @@ The method has been validated on benchmark datasets and compared against traditi
 
 ---
 
-## Installation
-
-Clone the repository:
-```bash
-git clone https://github.com/username/repo-name.git
