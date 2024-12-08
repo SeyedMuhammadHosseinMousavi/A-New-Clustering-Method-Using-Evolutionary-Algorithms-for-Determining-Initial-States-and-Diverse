@@ -14,10 +14,12 @@ This repository explores a novel clustering method that leverages **Differential
 - Euclidean Distance
 - City-block Distance
 - Chebyshev Distance
+![image](https://github.com/user-attachments/assets/768d6d14-8fcd-496b-9d40-c45df1c961a8)
 
 The method has been validated on benchmark datasets and compared against traditional clustering techniques such as K-Means, Fuzzy C-Means, Gaussian Mixture Models, and Self-Organizing Maps, demonstrating promising results.
 
 ---
+![image](https://github.com/user-attachments/assets/f332297b-30ba-403e-85bf-9dc0ee2cf38e)
 
 ## Features
 
@@ -33,4 +35,7 @@ The method has been validated on benchmark datasets and compared against traditi
 5. **Comparison with Standard Methods**: Compares performance with K-Means, Fuzzy C-Means, GMM, and SOM.
 
 ---
-
+![image](https://github.com/user-attachments/assets/0f76af2f-878a-4d2f-8614-fe9fd8c9830d)
+![image](https://github.com/user-attachments/assets/7bf38535-4f58-45af-ad6a-b69b3a2431bf)
+![image](https://github.com/user-attachments/assets/9a7df459-ee4c-40e7-bb9d-2c40c2894a75)
+![image](https://github.com/user-attachments/assets/cb2a6b15-9f95-4a49-bb15-93d1d795c096)
